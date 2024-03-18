@@ -26,6 +26,11 @@ Someone from each team should **open a PR** to this repository and themselves to
 
 Add a new section to register your team, here's an example:
 
+Team Name: Healthy Ploomber
+Members: David Tang
+Project description: Data visualization of health research relating to ageing. Aiming to have a deployed, reproducible and open-source app with code available.
+Github repo: https://github.com/dcstang/dash_bhs
+
 ### {{TEAM NAME}}
 
 Members: {{LIST OF NAMES}}
