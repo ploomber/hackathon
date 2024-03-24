@@ -31,6 +31,14 @@ Members: David Tang
 Project description: Data visualization of health research relating to ageing. Aiming to have a deployed, reproducible and open-source app with code available.
 Github repo: https://github.com/dcstang/dash_bhs
 
+### Sophia AI - Virtual Psychiatrist for Mental Well-being
+
+Members: Malay Damani
+
+Project description: Sophia AI is an innovative virtual psychiatrist designed to provide support and guidance to individuals experiencing trauma or depression. Utilizing advanced natural language processing and empathetic responses, Sophia AI aims to promote mental well-being and facilitate access to professional help when necessary.
+
+Link to GitHub repository: https://github.com/malay5/Sophia-AI---Virtual-Psychiatrist-for-Mental-Well-being-.git
+
 ### {{TEAM NAME}}
 
 Members: {{LIST OF NAMES}}
