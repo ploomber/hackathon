@@ -26,10 +26,12 @@ Someone from each team should **open a PR** to this repository and themselves to
 
 Add a new section to register your team, here's an example:
 
-Team Name: Healthy Ploomber
-Members: David Tang
-Project description: Data visualization of health research relating to ageing. Aiming to have a deployed, reproducible and open-source app with code available.
-Github repo: https://github.com/dcstang/dash_bhs
+### Healthy Ploomber - Visualization of Population Health Research  
+Members: David Tang   
+
+Project description: Data visualization of ongoing health research within Imperial College, London - on health scores relating to ageing. Currently all upstream data analytics pipelines are [orchestrated by ploomber](https://github.com/dcstang/tromso-delta-bhs), so this is an offshoot and interactive extension. For the scope of the hackaton, an open-source app that is primarily targeted towards democratizing the current state of research with other scientists. Further info on the background in the repo below.  
+Github repo: https://github.com/dcstang/dash_bhs   
+App link on [Ploomber Cloud](https://plain-breeze-4374.ploomberapp.io)
 
 ### Sophia AI - Virtual Psychiatrist for Mental Well-being
 
